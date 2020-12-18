@@ -1,13 +1,13 @@
 [[main]]
-  identifier = "docs"
-  name = "Docs"
-  url = "docs"
+  identifier = "News"
+  name = "News"
+  url = "news"
   weight = 1
-
+# weight is represent the order.
 [[main]]
-  identifier = "updates"
-  name = "Updates"
-  url = "updates"
+  identifier = "Research"
+  name = "Research"
+  url = "research"
   weight = 2
 
 [[main]]

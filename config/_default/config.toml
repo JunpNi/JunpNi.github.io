@@ -1,5 +1,5 @@
-baseURL = "http://example.org"
-title = "Hugo Zdoc Theme"
+baseURL = "https://http://junpni.gitee.io"
+title = "BCTS"
 theme = "zdoc"
 
 defaultContentLanguage = "en"

@@ -1,7 +1,7 @@
 logo = true
-logoText = "ZDoc"
+logoText = "BCTS"
 logoType = "short" # long, short
-description = "The ZDoc theme for Hugo example site."
+description = "Blockchain technology and system research group."
 
 themeOptions = ["light", "dark"]
 
