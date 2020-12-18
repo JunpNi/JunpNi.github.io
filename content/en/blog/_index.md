@@ -28,9 +28,9 @@ header:
     paddingY: 0
     align: center
     title:
-      - Zzo blog
+      - BCTS blog
     subtitle:
-      - 
+      - Learn, Record and Grow
     titleColor: 
     titleShadow: true
     titleFontSize: 44

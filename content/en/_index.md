@@ -1,6 +1,6 @@
 ---
-title: Z Themes
-description: Hugo zzo, zdoc theme documentation home page
+title: BCTS
+description: Blockchain technology and system research group.
 date: 2020-01-26T04:15:05+09:00
 draft: false
 # updatesBanner: "Banner - &nbsp; [Hugo ZDoc theme](https://github.com/zzossig/hugo-theme-zdoc) &nbsp; just arrived"
@@ -8,20 +8,20 @@ landing:
   height: 500
   image: favicon/android-icon-192x192.png
   title:
-    - Z Themes
+    - BCTS Group
   text:
-    - This is Hugo Z Themes documentation site
+    - Blockchain technology and system research group.
   titleColor:
   textColor:
   spaceBetweenTitleText: 25
-  buttons:
-    - link: docs
-      text: HUGO THEME ZDOC
-      color: primary
+  #buttons:
+  #  - link: News
+  #    text: Lab news
+  #    color: primary
   # backgroundImage: 
   #   src: images/landscape.jpg
   #   height: 600
-footer:
+<!-- footer:
   sections:
     - title: General
       links:
@@ -52,13 +52,17 @@ footer:
         - title: Spectrum
           link: https://gohugo.io/
         - title: Telemetry
-          link: https://gohugo.io/
+          link: https://gohugo.io/ -->
   contents: 
     align: left
     applySinglePageCss: false
     markdown:
       |
       ## Zzo docs
+
+
+
+      
       Copyright © 2020. All rights reserved.
 
 sections:
